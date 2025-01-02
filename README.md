@@ -42,4 +42,19 @@ A web-based bookstore application built with Java EE, JSP, and MySQL.
 Database Configuration The application requires MySQL 8.0. Configure your database connection in DBConnection.java:
 
 String url = "jdbc:mysql://localhost:3306/bookstore"; String username = "your_username"; String password = "your_password";
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20192902.png)
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20224210.png)
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20224239.png)
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20224323.png)
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20224404.png)
+
+![App Screenshot](https://github.com/harish379/booklab/blob/main/screenshots/Screenshot%202025-01-02%20224426.png)
     
